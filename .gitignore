@@ -19,4 +19,4 @@
 # Ignore application configuration
 /config/application.yml
 
-public/uploads/gram/picture
+public/uploads/gram/picturepublic/uploads/tmp
